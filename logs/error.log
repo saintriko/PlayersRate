@@ -1,0 +1,469 @@
+2021/11/05 16:38:05 [error] 8180#5840: *1 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/11/05 16:41:41 [error] 5124#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:42:13 [error] 5124#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:56 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:56 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:57 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:57 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:57 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:57 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:45:57 [error] 3480#5872: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:56 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:57 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:57 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:57 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:57 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:47:58 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:00 [error] 7068#10460: *2 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:02 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:11 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:12 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:12 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:13 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 16:48:13 [error] 7068#10460: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:03 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:03 [error] 11912#4028: *1 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2021/11/05 17:04:04 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:04 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:05 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:05 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:07 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:04:07 [error] 11912#4028: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost"
+2021/11/05 17:08:36 [error] 4016#6800: *1 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/11/05 17:13:23 [error] 4016#6800: *8 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "echo" in C:\nginx-1.21.4\html\test.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/11/05 17:13:23 [error] 4016#6800: *8 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/test.php"
+2021/11/05 17:13:35 [error] 4016#6800: *10 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/test.php"
+2021/11/05 17:15:28 [notice] 1556#11576: signal process started
+2021/11/05 17:16:55 [error] 12104#424: *3 connect() failed (10061: No connection could be made because the target machine actively refused it) while connecting to upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost"
+2021/11/05 17:16:55 [error] 12104#424: *3 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/test.php"
+2021/11/05 17:26:09 [error] 11328#1984: *1 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:27:51 [error] 11328#1984: *6 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:27:52 [error] 11328#1984: *7 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:31:12 [error] 11328#1984: *11 FastCGI sent in stderr: "PHP Warning:  Undefined variable $RikosRealname in C:\nginx-1.21.4\html\test.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:31:36 [error] 11328#1984: *14 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:32:01 [error] 11328#1984: *17 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:33:26 [error] 11328#1984: *17 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:33:52 [error] 11328#1984: *17 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:33:53 [error] 11328#1984: *17 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:33:53 [error] 11328#1984: *17 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:33:54 [error] 11328#1984: *17 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:07 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:07 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:08 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:08 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:08 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:13 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:13 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:14 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:14 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:14 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:36:14 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "PHP_EOL" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:17 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:18 [error] 11328#1984: *25 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:37:18 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:19 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:19 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:19 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:19 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:19 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:20 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:20 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:20 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:37:20 [error] 11328#1984: *25 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected single-quoted string "\n\r" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:38:25 [error] 11328#1984: *60 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:38:25 [error] 11328#1984: *62 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:38:26 [error] 11328#1984: *65 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:38:26 [error] 11328#1984: *67 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:43:50 [error] 11328#1984: *112 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\nginx-1.21.4\html\test.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:43:51 [error] 11328#1984: *112 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "<", expecting end of file in C:\nginx-1.21.4\html\test.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:46:30 [error] 11328#1984: *159 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "heith", expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:48:08 [error] 11328#1984: *161 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:48:08 [error] 11328#1984: *161 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/05 17:48:09 [error] 11328#1984: *161 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "echo", expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:48:18 [error] 11328#1984: *161 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:48:19 [error] 11328#1984: *161 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/05 17:48:19 [error] 11328#1984: *161 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\test.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:02:28 [error] 3704#3476: *3 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$Riko", expecting identifier in C:\nginx-1.21.4\html\vars.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:02:28 [error] 3704#3476: *3 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:02:50 [error] 3704#3476: *5 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$Riko", expecting identifier in C:\nginx-1.21.4\html\vars.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:02:51 [error] 3704#3476: *5 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$Riko", expecting identifier in C:\nginx-1.21.4\html\vars.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:03:02 [error] 3704#3476: *5 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Access to undeclared static property Riko::$RikosRealname in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:03:55 [error] 3704#3476: *5 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:03:56 [error] 3704#3476: *5 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:05:48 [error] 3704#3476: *11 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::RikosRealname in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:05:49 [error] 3704#3476: *11 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::RikosRealname in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:03 [error] 3704#3476: *11 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::RikosRealname() cannot be called statically in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:03 [error] 3704#3476: *11 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::RikosRealname() cannot be called statically in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:04 [error] 3704#3476: *11 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::RikosRealname() cannot be called statically in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:36 [error] 3704#3476: *11 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:06:57 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:58 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:58 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:58 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:59 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:59 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:06:59 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:07:00 [error] 3704#3476: *18 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Call to undefined method Riko::sRealname() in C:\nginx-1.21.4\html\test.php:8
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:11:34 [error] 3704#3476: *33 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:13:09 [error] 3704#3476: *36 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:17 [error] 3704#3476: *38 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:17 [error] 3704#3476: *38 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:14:17 [error] 3704#3476: *40 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:18 [error] 3704#3476: *40 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:19 [error] 3704#3476: *40 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:19 [error] 3704#3476: *40 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:14:19 [error] 3704#3476: *40 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:15:58 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:15:59 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:15:59 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:15:59 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:00 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:10 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:11 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:11 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:12 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:12 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:15
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:37 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:38 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:38 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:16:39 [error] 3704#3476: *46 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "Riko" in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:17 [error] 3704#3476: *61 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:17 [error] 3704#3476: *61 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:19:17 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:18 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:18 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 14" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:50 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 22" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:50 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 22" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:50 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 22" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:19:51 [error] 3704#3476: *63 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Riko::nickName in C:\nginx-1.21.4\html\test.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 22" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:41:08 [error] 3704#3476: *81 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 12:42:37 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$age", expecting "function" or "const" in C:\nginx-1.21.4\html\vars.php on line 5" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:43:31 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(17): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:43:43 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Warning:  Undefined variable $age in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:43:45 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Warning:  Undefined variable $age in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:43:53 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(17): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:44:11 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::getAge() cannot be called statically in C:\nginx-1.21.4\html\test.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 17" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:44:12 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::getAge() cannot be called statically in C:\nginx-1.21.4\html\test.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 17" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:44:43 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "AGE" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(17): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:44:58 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(17): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:44:59 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(17): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:45:48 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Access to undeclared static property Riko::$age in C:\nginx-1.21.4\html\test.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 17" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:45:49 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Access to undeclared static property Riko::$age in C:\nginx-1.21.4\html\test.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 17" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:46:44 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Warning:  Undefined variable $age in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:46:45 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Warning:  Undefined variable $age in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:47:10 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "this" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(18): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:47:11 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "this" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(18): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:47:11 [error] 3704#3476: *86 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "this" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(18): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:47:12 [error] 3704#3476: *108 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "this" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(18): Riko::getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:49:17 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::getAge() cannot be called statically in C:\nginx-1.21.4\html\test.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 18" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:50:10 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "this" in C:\nginx-1.21.4\html\vars.php:8
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(21): Riko->getAge()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:50:22 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Warning:  Undefined variable $age in C:\nginx-1.21.4\html\vars.php on line 8
+PHP Warning:  Undefined property: Riko::$ in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:50:54 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Notice:  Accessing static property Riko::$age as non static in C:\nginx-1.21.4\html\vars.php on line 8
+PHP Warning:  Undefined property: Riko::$age in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:51:29 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Non-static method Riko::getAge() cannot be called statically in C:\nginx-1.21.4\html\test.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 21" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:53:28 [error] 3704#3476: *110 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token "(", expecting "{" in C:\nginx-1.21.4\html\vars.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:55:52 [error] 3704#3476: *130 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function Riko::__construct(), 0 passed in C:\nginx-1.21.4\html\test.php on line 19 and exactly 1 expected in C:\nginx-1.21.4\html\vars.php:6
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(19): Riko->__construct()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 6" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 12:55:52 [error] 3704#3476: *130 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 13:00:06 [error] 3704#3476: *139 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: addslashes() expects exactly 1 argument, 2 given in C:\nginx-1.21.4\html\test.php:13
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(13): addslashes('height:400px;fo...', 'center;')
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:00:07 [error] 3704#3476: *139 FastCGI sent in stderr: "PHP Fatal error:  Uncaught ArgumentCountError: addslashes() expects exactly 1 argument, 2 given in C:\nginx-1.21.4\html\test.php:13
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(13): addslashes('height:400px;fo...', 'center;')
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 13" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:02:39 [error] 3704#3476: *149 FastCGI sent in stderr: "PHP Warning:  Undefined property: Riko::$MAX_RANK in C:\nginx-1.21.4\html\vars.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:03:02 [error] 3704#3476: *149 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant "MAX_RANK" in C:\nginx-1.21.4\html\vars.php:15
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(22): Riko->getRank()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:04:07 [error] 3704#3476: *152 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 13:04:42 [error] 3704#3476: *154 FastCGI sent in stderr: "PHP Fatal error:  Cannot use "parent" when current class scope has no parent in C:\nginx-1.21.4\html\vars.php on line 15" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:05:05 [error] 3704#3476: *154 FastCGI sent in stderr: "PHP Fatal error:  Cannot use 'static' as constant modifier in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:05:12 [error] 3704#3476: *154 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected identifier "MAX_RANK", expecting "=" in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:05:29 [error] 3704#3476: *154 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Cannot access protected constant Riko::SEX in C:\nginx-1.21.4\html\test.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 16" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 13:05:44 [error] 3704#3476: *154 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Cannot access private constant Riko::SEX in C:\nginx-1.21.4\html\test.php:16
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 16" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 14:44:34 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:35 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:36 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:36 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:36 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:36 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:37 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:42 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:42 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:42 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:43 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:43 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:43 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:44 [error] 2296#11512: *3 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:44:46 [error] 2296#11512: *5 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:46:04 [error] 2296#11512: *6 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 14:46:36 [error] 8416#7956: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:46:37 [error] 8416#7956: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:47:41 [error] 11936#3004: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:47:42 [error] 11936#3004: *1 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 14:47:43 [error] 11936#3004: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:48:04 [error] 11936#3004: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:48:04 [error] 11936#3004: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:48:04 [error] 11936#3004: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:50:20 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:50:21 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:50:21 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:50:31 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:50:31 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:51:02 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:51:03 [error] 4240#3864: *1 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:52:25 [error] 4240#3864: *2 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:52:25 [error] 4240#3864: *2 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:52:26 [error] 4240#3864: *2 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:52:41 [error] 4240#3864: *2 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected double-quoted string ">TEST</a> ", expecting "," or ";" in C:\nginx-1.21.4\html\index.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000"
+2021/11/06 14:53:09 [error] 4240#3864: *2 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\index.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000"
+2021/11/06 14:53:09 [error] 4240#3864: *2 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\index.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000"
+2021/11/06 14:53:29 [error] 4240#3864: *2 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\index.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000"
+2021/11/06 14:53:30 [error] 4240#3864: *2 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected end of file, expecting "," or ";" in C:\nginx-1.21.4\html\index.php on line 3" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /index.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000"
+2021/11/06 14:53:42 [error] 4240#3864: *2 CreateFile() "C:\nginx-1.21.4/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/index.php"
+2021/11/06 14:53:44 [error] 4240#3864: *2 directory index of "C:\nginx-1.21.4/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
+2021/11/06 14:56:59 [error] 7296#1840: *1 CreateFile() "C:\nginx-1.21.4/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 14:57:11 [error] 7296#1840: *1 CreateFile() "C:\nginx-1.21.4/html/test" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /test HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:29:44 [error] 7296#1840: *109 FastCGI sent in stderr: "PHP Warning:  Undefined variable $greetings in C:\nginx-1.21.4\html\test.php on line 17
+PHP Warning:  Undefined variable $realName in C:\nginx-1.21.4\html\test.php on line 17
+PHP Fatal error:  Uncaught Error: Class "Riko" not found in C:\nginx-1.21.4\html\test.php:17
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 17" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:33:22 [error] 2548#1876: *5 CreateFile() "C:\nginx-1.21.4/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/test.php"
+2021/11/06 15:45:20 [error] 2548#1876: *55 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token ";", expecting "function" or "const" in C:\nginx-1.21.4\html\vars.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:45:26 [error] 2548#1876: *55 FastCGI sent in stderr: "PHP Fatal error:  Constant expression contains invalid operations in C:\nginx-1.21.4\html\vars.php on line 8" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:47:14 [error] 2548#1876: *58 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected token ";" in C:\nginx-1.21.4\html\test.php on line 30" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:55:09 [error] 2548#1876: *64 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Using $this when not in object context in C:\nginx-1.21.4\html\vars.php:25
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(8): Player::Realname()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 25" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:55:48 [error] 2548#1876: *64 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Undefined constant Player::realName in C:\nginx-1.21.4\html\vars.php:25
+Stack trace:
+#0 C:\nginx-1.21.4\html\test.php(8): Player::Realname()
+#1 {main}
+  thrown in C:\nginx-1.21.4\html\vars.php on line 25" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:56:03 [error] 2548#1876: *64 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$realName" in C:\nginx-1.21.4\html\vars.php on line 10" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:59:09 [error] 2548#1876: *70 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Access to undeclared static property Player::$nickName in C:\nginx-1.21.4\html\test.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 18" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:59:31 [error] 2548#1876: *70 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Cannot access protected property Player::$nickName in C:\nginx-1.21.4\html\test.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 18" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:59:38 [error] 2548#1876: *70 FastCGI sent in stderr: "PHP Fatal error:  Uncaught Error: Cannot access private property Player::$nickName in C:\nginx-1.21.4\html\test.php:18
+Stack trace:
+#0 {main}
+  thrown in C:\nginx-1.21.4\html\test.php on line 18" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
+2021/11/06 15:59:49 [error] 2548#1876: *70 FastCGI sent in stderr: "PHP Parse error:  syntax error, unexpected variable "$birthdate", expecting "function" or "const" in C:\nginx-1.21.4\html\vars.php on line 7" while reading response header from upstream, client: 127.0.0.1, server: localhost, request: "GET /test.php HTTP/1.1", upstream: "fastcgi://127.0.0.1:9000", host: "localhost:8000", referrer: "http://localhost:8000/"
