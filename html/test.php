@@ -5,14 +5,14 @@ include_once 'vars.php';
 $greetings = "My name is";
 
 $realName = "";
-if (!empty( Player::getRealname() )) {
-	$realName = Player::getRealname();
+if (!empty(Player::getRealname())) {
+    $realName = Player::getRealname();
 } else {
-	$realName = "unknown";
+    $realName = "unknown";
 }
 
 ?>
-<div style='width:400px;font-weight:700;text-align:end;'>
+    <div style='width:400px;font-weight:700;text-align:end;'>
 
 <?
 echo $greetings . " " . $realName . "<br>" . "aka " . Player::$nickName;
