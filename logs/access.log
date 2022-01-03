@@ -1,4 +1,0 @@
-127.0.0.1 - - [03/Jan/2022:18:57:11 +0300] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
-127.0.0.1 - - [03/Jan/2022:18:57:12 +0300] "GET /favicon.ico HTTP/1.1" 404 153 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
-127.0.0.1 - - [03/Jan/2022:18:59:26 +0300] "GET / HTTP/1.1" 403 153 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
-127.0.0.1 - - [03/Jan/2022:18:59:26 +0300] "GET /favicon.ico HTTP/1.1" 404 153 "http://localhost:8000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:95.0) Gecko/20100101 Firefox/95.0"
