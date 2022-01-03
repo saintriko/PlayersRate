@@ -1,6 +1,6 @@
 # php_practice
 <b>Practice in php development.<b>
-Nginx 1.21.4 with php-cgi
+Nginx with php-cgi
   
   <ul>
     <li>Pull project to C:\nginx-1.21.5\
