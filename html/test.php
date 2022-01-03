@@ -14,7 +14,7 @@ if (!empty(Player::getRealname())) {
 }
 
 ?>
-    <div style='width:400px;font-weight:700;text-align:end;'>
+    <div style='width:400px;font-weight:700;text-align:end;border: solid 1px;padding: 5px'>
 
 <?
 echo $greetings . " " . $realName . "<br>" . "aka " . $newPlayerRiko->getNickName();
@@ -28,8 +28,7 @@ echo "<br> Rank: ";
 echo $newPlayerRiko->getRank() . "/" . Ranking::getMaxRank();
 echo "<br>";
 
-
-
-echo "</div>";
-
 ?>
+
+</div>
+
