@@ -1,2 +1,3 @@
 ﻿logs/access.log
 .idea/
+logs/nginx.pid

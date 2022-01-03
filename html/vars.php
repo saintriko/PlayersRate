@@ -5,13 +5,20 @@ class Player
 {
     protected int $rank;
     protected $birthdate = '27/10/1997';
-    const SEX = "male";
-    static $nickName = "SaintRiko";
+    protected string $nickName;
     protected const REAL_NAME = "Maksim Semeev";
+    protected const TEAM_NAME = "Wolves";
+    const SEX = "male";
 
-    public function __construct(int $rank)
+    public function __construct()
     {
-        $this->rank = $rank;
+        $this->rank = Ranking::setRandomRank();
+        $this->nickName = "SaintRiko";
+    }
+
+    function getNickName()
+    {
+        return $this->nickName;
     }
 
     function getRank()
@@ -27,6 +34,11 @@ class Player
     public static function getRealname()
     {
         return static::REAL_NAME;
+    }
+
+    public static function getTeamName()
+    {
+        return static::TEAM_NAME;
     }
 
 }
