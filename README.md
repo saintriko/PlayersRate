@@ -1,14 +1,18 @@
 # php_practice
 <b>Practice in php development.<b>
-Nginx with php-cgi
+<br>Nginx server with php-cgi
+<br>PHP 8.1.1
   
   <ul>
-    <li>Pull project to C:\nginx-1.21.5\
-    <li>Dowload PHP8 to C:\php8\
+    <li>Pull project to <strong>C:\nginx-1.21.5\</strong>
+    <li>Dowload <a href="https://www.php.net/downloads.php">PHP8.1.1</a> to <strong>C:\php8\</strong>
     <li>Start php-cgi: "C:\php8\php-cgi.exe" -b 127.0.0.1:9000 -c "C:\php8\php.ini"
-    <li>start nginx: cd C:\nginx-1.21.5, start nginx.exe
+    <li>start nginx: 
+      <br>cd C:\nginx-1.21.5
+      <br>start nginx.exe
     <li>Or run "start.bat"
-    <li>
+    <br>
+    <br>
     <li>nginx dir: C:\nginx-1.21.5
     <li>PHP dir: C:\php8\
   </ul>
