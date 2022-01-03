@@ -68,3 +68,5 @@ function getAgeByDate($birthdate)
 
     return $age;
 }
+
+?>
