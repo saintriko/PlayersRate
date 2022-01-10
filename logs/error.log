@@ -1,3 +1,0 @@
-2022/01/03 18:57:12 [error] 1108#8792: *1 CreateFile() "C:\nginx-1.21.5/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
-2022/01/03 18:59:26 [error] 1720#2712: *1 directory index of "C:\nginx-1.21.5/html/" is forbidden, client: 127.0.0.1, server: localhost, request: "GET / HTTP/1.1", host: "localhost:8000"
-2022/01/03 18:59:26 [error] 1720#2712: *1 CreateFile() "C:\nginx-1.21.5/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8000", referrer: "http://localhost:8000/"
