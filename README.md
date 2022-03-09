@@ -14,9 +14,8 @@
       <br>Start nginx.exe
     <li>Or run "start.bat"
     <br>
-	<li>LOCAL NGINX IP: `127.0.0.1:8000`
-    <br>
     <br>
     <li>nginx dir: "C:\nginx-1.21.5"
     <li>PHP dir: "C:\php8\"
   </ul>
+LOCAL NGINX IP: `127.0.0.1:8000`
