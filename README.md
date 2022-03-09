@@ -3,6 +3,7 @@
 <br>Nginx server with php-cgi
 <br>PHP 8.1.1
   
+  <h1>How to run project on Nginx: <h1>
   <ul>
     <li>Pull project to "C:\nginx-1.21.5\"
     <li>Dowload <a href="https://www.php.net/downloads.php">PHP8.1.1</a> to "C:\php8\"
