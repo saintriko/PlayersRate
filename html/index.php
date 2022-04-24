@@ -8,6 +8,7 @@
 <body>
 
 <?
+header("Status: 200 OK We are online!");
 echo "<ul>";
 echo "<li><a href=/test.php><b>TEST.PHP</b></a></li>";
 echo "<li><a href=/welcome.php><b>WELCOME.PHP</b></a></li>";
