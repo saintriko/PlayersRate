@@ -1,10 +1,7 @@
-<?
-
-?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Welcome to PlayersRate!</title>
+<title>Welcome to PHP Practice!</title>
 <style>
 </style>
 </head>

@@ -1,3 +1,10 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Players Rate Test</title>
+</head>
+<body>
+
 <?
 
 include_once 'vars.php';
