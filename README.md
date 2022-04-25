@@ -4,7 +4,7 @@
 <br>PHP 8.1.1
 <br>Doctrine 2
   
-<h2>How to run project on Nginx: </h1>
+<h2>How to run project on Nginx: </h2>
   
 * Pull project to `C:\nginx-1.21.5\`
 * Dowload <a href="https://www.php.net/downloads.php">PHP8.1.1</a> to `C:\php8\`
@@ -28,5 +28,6 @@ PHP dir: `C:\php8\`
     
 LOCAL NGINX IP: `127.0.0.1:8000`
   
+ <h2>Next step: </h2>
 * cd nginx-1.21.5\html\
 * composer i
