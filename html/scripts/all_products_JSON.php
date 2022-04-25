@@ -9,12 +9,5 @@ if ($products === null) {
     echo "No products found.\n";
     exit(1);
 } else {
-    foreach ($products as $product) {
-        $productData['id'] = $product->getId();
-        $productData['name'] = $product->getName();
-        $productData['model'] = $product->getModel();
-        $productsData[][] = $productData;
-    }
+    echo json_encode($products);
 }
-
-echo json_encode($productsData);

@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
  * @ORM\Entity
  * @ORM\Table(name="products")
  */
-class Product
+class Product implements JsonSerializable
 {
     /**
      * @ORM\Id
@@ -47,5 +47,14 @@ class Product
     public function getModel()
     {
         return $this->model;
+    }
+
+    public function jsonSerialize(): array
+    {
+        return array(
+            'id' => $this->id,
+            'name' => $this->name,
+            'model'=> $this->model,
+        );
     }
 }
