@@ -3,9 +3,10 @@
         "doctrine/orm": "^2.6.2",
         "doctrine/cache": "1.11",
         "symfony/yaml": "2.*",
-        "ext-json": "*"
+        "ext-json": "*",
+        "vlucas/phpdotenv": "^5.4"
     },
     "autoload": {
-        "psr-0": {"": "src/"}
+        "psr-0": {"": "src/entities"}
     }
 }
