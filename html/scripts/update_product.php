@@ -4,6 +4,7 @@ require_once "../bootstrap.php";
 
 $id = $argv[1];
 $newName = $argv[2];
+$newModel = $argv[3];
 
 $product = $entityManager->find('Product', $id);
 
@@ -13,5 +14,6 @@ if ($product === null) {
 }
 
 $product->setName($newName);
+$product->setModel($newModel);
 
 $entityManager->flush();

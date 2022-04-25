@@ -10,7 +10,6 @@ if ($products === null) {
     exit(1);
 } else {
     foreach ($products as $product) {
-        echo $product->getId() . " " . $product->getName() . " " . $product->getModel() . "\n";
-        echo '<br>';
+        echo nl2br($product->getId() . " " . $product->getName() . " " . $product->getModel() . "\n");
     }
 }
