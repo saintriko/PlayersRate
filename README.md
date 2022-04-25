@@ -2,6 +2,7 @@
 <b>Practice in php development.<b>
 <br>Nginx server with php-cgi
 <br>PHP 8.1.1
+<br>Doctrine 2
   
 <h2>How to run project on Nginx: </h1>
   
@@ -26,3 +27,6 @@ PHP dir: `C:\php8\`
   
     
 LOCAL NGINX IP: `127.0.0.1:8000`
+  
+* cd nginx-1.21.5\html\
+* composer i
