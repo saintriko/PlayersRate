@@ -24,7 +24,7 @@ echo "
     <h3>Products database:</h3>
     <p>Doctrine2. MySQL connection needed.</p>
     <ul>
-        <li><a href=/scripts/show_all_products.php><b>show_all_products.php</b></a></li>
+        <li><a href=/scripts/show_all_products_browser.php><b>show_all_products.php</b></a></li>
         <li><a href=/scripts/all_products_JSON.php><b>all_products_JSON.php</b></a></li>
         <li><a href=/scripts/show_product_JSON.php?pid=1><b>show_product_JSON.php</b></a></li>
     </ul>

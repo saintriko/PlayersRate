@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <title>Players Rate Test</title>
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
 
