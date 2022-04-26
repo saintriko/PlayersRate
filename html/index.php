@@ -15,19 +15,25 @@ echo "
     <h2>Welcome to my PHP Practice!</h2>
     <h3>Simple PHP scripts:</h3>
     <ul>
-        <li><a href=/test.php><b>PLAYER CARD</b></a></li>
-        <li><a href=/welcome.php><b>WELCOME FORM</b></a></li>
+        <li><a href=/test.php><b>Player's card</b></a></li>
+        <li><a href=/welcome.php><b>Welcome form</b></a></li>
     </ul>
 ";
 
 echo "
-    <h3>Products database:</h3>
+    <h3>Scripts for database:</h3>
     <p>Doctrine2. MySQL connection needed.</p>
-    <ul>
-        <li><a href=/scripts/show_all_products_browser.php><b>show_all_products.php</b></a></li>
-        <li><a href=/scripts/all_products_JSON.php><b>all_products_JSON.php</b></a></li>
-        <li><a href=/scripts/show_product_JSON.php?pid=1><b>show_product_JSON.php</b></a></li>
-    </ul>
+    
+        <p>Browser view:</p>
+        <ul>
+            <li><a href=/scripts/show_all_products_browser.php><b>Show all products.php</b></a></li>
+        </ul>
+        <p>JSON format:</p>
+        <ul>
+            <li><a href=/scripts/all_products_JSON.php><b>All products JSON.php</b></a></li>
+            <li><a href=/scripts/show_product_JSON.php?pid=1><b>Show product by id JSON.php</b></a></li>
+        </ul>
+    
 ";
 
 ?>
