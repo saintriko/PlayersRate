@@ -7,7 +7,7 @@ $productRepository = $entityManager->getRepository('Product');
 $products = $productRepository->findAll();
 
 if ($products === null) {
-    echo json_encode("No products found.");
+    echo json_encode([null, "No product found."]);
     exit(1);
 } else {
     echo json_encode($products);
