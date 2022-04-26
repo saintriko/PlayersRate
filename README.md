@@ -29,5 +29,11 @@ PHP dir: `C:\php8\`
 LOCAL NGINX IP: `127.0.0.1:8000`
   
  <h2>Next step: </h2>
-* cd nginx-1.21.5\html\
-* composer i
+  
+* Configurate .env use .example.env
+  
+* Run
+    ``` console
+    cd nginx-1.21.5\html\
+    composer i
+    ```
