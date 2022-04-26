@@ -7,8 +7,8 @@
 <body>
 
 <form action="welcome.php" method="get">
-    Name: <input type="text" name="name"><br>
-    E-mail: <input type="text" name="email"><br>
+    Name: <input type="text" name="name" value="Maksim Semeev"><br>
+    E-mail: <input type="text" name="email" value="makssemeev@gmail.com"><br>
     <input type="submit">
 </form>
 

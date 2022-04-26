@@ -33,7 +33,7 @@ echo "<br>";
 echo "Age: " . getAgeByDate($newPlayerRiko->getBirthdate());
 echo "<br>";
 echo "Team: " . Player::getTeamName();
-echo "<br> Rank: ";
+echo "<br> Rank(randomly generated): ";
 echo $newPlayerRiko->getRank() . "/" . Ranking::getMaxRank();
 echo "<br>";
 

@@ -13,7 +13,7 @@ echo "
 
 echo "
     <h2>Welcome to my PHP Practice!</h2>
-    <h3>Basic PHP scripts:</h3>
+    <h3>Simple PHP scripts:</h3>
     <ul>
         <li><a href=/test.php><b>PLAYER CARD</b></a></li>
         <li><a href=/welcome.php><b>WELCOME FORM</b></a></li>
