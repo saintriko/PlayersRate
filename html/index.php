@@ -1,26 +1,27 @@
 <?
     header("Status: 200 OK We are online!");
 
-echo "
+echo '
 <!DOCTYPE html>
-<html lang=\"en\">
+<html lang="en">
 <head>
     <title>PHP Practice</title>
-    <link rel=\"stylesheet\" href=\"css/main.css\">
+    <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
-";
+';
 
-echo "
+echo '
+    <div class="wrapper">
     <h2>Welcome to my PHP Practice!</h2>
     <h3>Simple PHP scripts:</h3>
     <ul>
-        <li><a href=/test.php><b>Player's card</b></a></li>
+        <li><a href=/test.php><b>Player\'s card</b></a></li>
         <li><a href=/welcome.php><b>Welcome form</b></a></li>
     </ul>
-";
+';
 
-echo "
+echo '
     <h3>Scripts for database:</h3>
     <p>Doctrine2. MySQL connection needed.</p>
     
@@ -33,8 +34,8 @@ echo "
             <li><a href=/scripts/all_products_JSON.php><b>All products JSON.php</b></a></li>
             <li><a href=/scripts/show_product_JSON.php?pid=1><b>Show product by id JSON.php</b></a></li>
         </ul>
-    
-";
+    </div>
+';
 
 ?>
 </body>

@@ -22,22 +22,23 @@ if (!empty(Player::getRealname())) {
 }
 
 ?>
-    <div style='width:400px;font-weight:700;text-align:end;border: solid 1px;padding: 5px'>
+    <div class="wrapper">
+        <div style='width:400px;font-weight:700;text-align:end;border: solid 1px;padding: 5px'>
 
-<?
-echo $greetings . " " . $realName . "<br>" . "aka " . $newPlayerRiko->getNickName();
-echo "<br>";
-echo "Sex: " . Player::SEX;
-echo "<br>";
+        <?
+        echo $greetings . " " . $realName . "<br>" . "aka " . $newPlayerRiko->getNickName();
+        echo "<br>";
+        echo "Sex: " . Player::SEX;
+        echo "<br>";
 
-echo "Age: " . getAgeByDate($newPlayerRiko->getBirthdate());
-echo "<br>";
-echo "Team: " . Player::getTeamName();
-echo "<br> Rank(randomly generated): ";
-echo $newPlayerRiko->getRank() . "/" . Ranking::getMaxRank();
-echo "<br>";
+        echo "Age: " . getAgeByDate($newPlayerRiko->getBirthdate());
+        echo "<br>";
+        echo "Team: " . Player::getTeamName();
+        echo "<br> Rank(randomly generated): ";
+        echo $newPlayerRiko->getRank() . "/" . Ranking::getMaxRank();
+        echo "<br>";
 
-?>
+        ?>
 
-</div>
-
+        </div>
+    </div>

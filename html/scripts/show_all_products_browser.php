@@ -8,8 +8,9 @@ echo "
     <link rel=\"stylesheet\" href=\"../css/main.css\">
 </head>
 <body>
+<div class=\"wrapper\">
 ";
 
 require_once 'show_all_products.php';
 
-echo "</body></html>";
+echo "</div></body></html>";
