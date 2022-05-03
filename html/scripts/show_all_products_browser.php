@@ -11,6 +11,6 @@ echo "
 <div class=\"wrapper\">
 ";
 
-require_once 'show_all_products.php';
 
+require_once 'show_all_products.php';
 echo "</div></body></html>";

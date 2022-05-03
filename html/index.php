@@ -7,6 +7,7 @@ echo '
 <head>
     <title>PHP Practice</title>
     <link rel="stylesheet" href="css/main.css">
+    <link href="favicon.ico" rel="icon" type="image/x-icon" />
 </head>
 <body>
 ';

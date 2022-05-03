@@ -1,15 +1,16 @@
 <?php
-// show_product.php <id>
+use Doctrine\ORM\EntityManager;
 require_once "../bootstrap.php";
 
-$productRepository = $entityManager->getRepository('Product');
-$products = $productRepository->findAll();
-
-if ($products === null) {
-    echo "No products found.\n";
-    exit(1);
-} else {
-    foreach ($products as $product) {
-        echo nl2br($product->getId() . " " . $product->getName() . " " . $product->getModel() . "\n");
+    $productRepository = $entityManager->getRepository('Product');
+    $products = $productRepository->findAll();
+    $productsData = "";
+    if ($products === null) {
+        $productsData = "No products found.\n";
+    } else {
+        foreach ($products as $product) {
+            $productsData.= nl2br($product->getId() . ". " . $product->getName() . " " . $product->getModel() . "\n");
+        }
     }
-}
+    echo $productsData;
+
