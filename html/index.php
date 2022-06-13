@@ -28,12 +28,13 @@ echo '
     
         <p>Browser view:</p>
         <ul>
-            <li><a href=/scripts/show_all_products_browser.php><b>Show all products.php</b></a></li>
+            <li><a href=/scripts/show_all_products_page.php><b>Show all products</b></a></li>
+            <li><a href=/scripts/create_product_page.php><b>Create product form</b></a></li>
         </ul>
         <p>JSON format:</p>
         <ul>
-            <li><a href=/scripts/all_products_JSON.php><b>All products JSON.php</b></a></li>
-            <li><a href=/scripts/show_product_JSON.php?pid=1><b>Show product by id JSON.php</b></a></li>
+            <li><a href=/scripts/all_products_JSON.php><b>All products JSON</b></a></li>
+            <li><a href=/scripts/show_product_JSON.php?pid=1><b>Show product by id JSON</b></a></li>
         </ul>
     </div>
 ';
