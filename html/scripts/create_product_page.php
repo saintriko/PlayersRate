@@ -1,3 +1,8 @@
+<head>
+    <title>Players Rate Test</title>
+    <link rel="stylesheet" href="../css/main.css">
+</head>
+
 <?php
 // create_product.php <name>
 require_once "../bootstrap.php";
@@ -23,7 +28,11 @@ if (!empty($_GET) && !empty($_GET['name']) && !empty($_GET['model']) ) {
     $entityManager->persist($product);
     $entityManager->flush();
 
+    echo '<div class="wrapper">';
     echo nl2br("Created Product with ID: " . $product->getId() . "\n" . $product->getName() . "\n" . $product->getModel() . "\n" );
+    echo '</div>';
 } else {
+    echo '<div class="wrapper">';
     echo "Please, enter product name, product model";
+    echo '</div>';
 }

@@ -1,4 +1,7 @@
 <?
+require_once "../bootstrap.php";
+use Doctrine\ORM\EntityManager;
+
 
 echo "
 <!DOCTYPE html>
@@ -11,6 +14,6 @@ echo "
 <div class=\"wrapper\">
 ";
 
-
-require_once 'show_all_products.php';
+$getProducts = new GetProducts($entityManager);
+echo $getProducts->showAll();
 echo "</div></body></html>";
