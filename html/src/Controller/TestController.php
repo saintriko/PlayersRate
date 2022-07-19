@@ -2,7 +2,7 @@
 
 namespace Application\Controller;
 
-class DefaultController
+class TestController
 {
     public static function start () {
         echo "Hello world!";
