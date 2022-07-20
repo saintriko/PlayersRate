@@ -1,10 +1,11 @@
 <?
-
-echo "Debug URI: " . $_SERVER['REQUEST_URI'];
-if (isset($_SERVER['REQUEST_URI']) && $_SERVER['REQUEST_URI'] == '/test') {
-    header('Location: test.php');
-
+echo $_SERVER['REQUEST_URI']; // TODO: Make it work with parameters. Response with data to specific URI without redirect.
+if (isset($_SERVER['REQUEST_URI']) && file_exists(ltrim($_SERVER['REQUEST_URI'] , '/') . '.php') ) {
+    header('Location: ' . $_SERVER['REQUEST_URI'] . '.php');
+} elseif($_SERVER['REQUEST_URI'] !== '/') {
+    header('Location: 404.html');
 }
+
 echo '
 <!DOCTYPE html>
 <html lang="en">
