@@ -1,7 +1,10 @@
 <?
-    header("Status: 200 OK We are online!");
 
 echo "Debug URI: " . $_SERVER['REQUEST_URI'];
+if (isset($_SERVER['REQUEST_URI']) && $_SERVER['REQUEST_URI'] == '/test') {
+    header('Location: test.php');
+
+}
 echo '
 <!DOCTYPE html>
 <html lang="en">
