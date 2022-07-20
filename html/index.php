@@ -1,6 +1,7 @@
 <?
     header("Status: 200 OK We are online!");
 
+echo "Debug URI: " . $_SERVER['REQUEST_URI'];
 echo '
 <!DOCTYPE html>
 <html lang="en">
