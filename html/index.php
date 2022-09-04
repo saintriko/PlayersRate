@@ -1,10 +1,14 @@
 <?
-echo $_SERVER['REQUEST_URI']; // TODO: Make it work with parameters. Response with data to specific URI without redirect.
-if (isset($_SERVER['REQUEST_URI']) && file_exists(ltrim($_SERVER['REQUEST_URI'] , '/') . '.php') ) {
-    header('Location: ' . $_SERVER['REQUEST_URI'] . '.php');
-} elseif($_SERVER['REQUEST_URI'] !== '/') {
-    header('Location: 404.html');
-}
+require 'vendor/autoload.php';
+
+use Application\Lib\Router;
+// TODO: Make it work with parameters. Response with data to specific URI without redirect using callback functions.
+
+Router::get('/test', function () {
+    echo 'Hello World!!!';
+});
+
+echo "<br> URI: " . $_SERVER['REQUEST_URI'];
 
 echo '
 <!DOCTYPE html>
