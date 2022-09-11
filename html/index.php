@@ -8,7 +8,7 @@ Router::get('/test', function () {
     echo 'Hello World!!!';
 });
 
-echo "<br> URI: " . $_SERVER['REQUEST_URI'];
+Router::get('/', function () {
 
 echo '
 <!DOCTYPE html>
@@ -46,13 +46,10 @@ echo '
             <li><a href=/scripts/show_product_JSON.php?pid=1><b>Show product by id JSON</b></a></li>
         </ul>
     </div>
-';
-
-?>
-</body>
+    </body>
 <footer>
 </footer>
+';
 
-
-
+});
 
