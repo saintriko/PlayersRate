@@ -1,15 +1,16 @@
 <?
 require 'vendor/autoload.php';
-
 use Application\Lib\Router;
-// TODO: Make it work with parameters. Response with data to specific URI without redirect using callback functions.
+use Application\Lib\Request;
+use Application\Lib\Response;
+// TODO: Make it work with parameters.
+// TODO: Rewrite Router::get, so it will work regardless of the number of parameters
 
 Router::get('/test', function () {
     echo 'Hello World!!!';
 });
 
-Router::get('/', function () {
-
+Router::get('/', function (Request $req, Response $res) {
 echo '
 <!DOCTYPE html>
 <html lang="en">
@@ -53,3 +54,4 @@ echo '
 
 });
 
+echo "404 page";
