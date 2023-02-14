@@ -26,6 +26,7 @@ class Router
     public static function on($regex, $cb)
     {
         $params = $_SERVER['REQUEST_URI'];
+
         $params = (stripos($params, "/") !== 0) ? "/" . $params : $params;
         $regex = str_replace('/', '\/', $regex);
         $is_match = preg_match('/^' . ($regex) . '$/', $params, $matches, PREG_OFFSET_CAPTURE);
@@ -37,6 +38,7 @@ class Router
             $params = array_map(function ($param) {
                 return $param[0];
             }, $matches);
+            var_dump($params);
             $cb(new Request($params), new Response());
         }
     }
